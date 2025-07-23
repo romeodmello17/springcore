@@ -21,8 +21,6 @@ public class Paneer {
 	}
 
 	public Paneer() {
-		super();
-		// TODO Auto-generated constructor stub
 	}
 
 
