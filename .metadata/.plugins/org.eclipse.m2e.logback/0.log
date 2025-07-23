@@ -939,3 +939,83 @@
 2025-07-24 04:05:50,918 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
 2025-07-24 04:05:50,918 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2025-07-24 04:05:50,918 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:05:56,303 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:05:56,305 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:05:56,306 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:05:56,306 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:37:47,639 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:37:47,640 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:37:47,640 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:37:47,641 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:37:57,238 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:37:57,239 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:37:57,240 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:37:57,240 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:38:10,752 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:38:10,752 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:38:10,753 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:38:10,753 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:42:30,490 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:42:30,490 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:42:30,492 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:42:30,492 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:48:27,480 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:48:27,481 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:48:27,481 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:48:27,481 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:49:23,766 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:49:23,767 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:49:23,767 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:49:23,768 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:49:36,212 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:49:36,213 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:49:36,213 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:49:36,213 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:50:08,225 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:50:08,225 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:50:08,226 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:50:08,227 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:51:27,678 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:51:27,678 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:51:27,680 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:51:27,680 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:52:13,357 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:52:13,357 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:52:13,359 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:52:13,359 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:52:27,473 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:52:27,473 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:52:27,474 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:52:27,474 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:52:53,629 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:52:53,630 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:52:53,630 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:52:53,630 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:53:07,867 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:53:07,867 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:53:07,869 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:53:07,869 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:53:19,038 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:53:19,038 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:53:19,039 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:53:19,039 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:53:50,372 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:53:50,372 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:53:50,373 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:53:50,373 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:54:39,831 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:54:39,831 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:54:39,831 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:54:39,831 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:54:52,791 [Worker-30: Launching Teststandalonecollections] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:54:52,792 [Worker-30: Launching Teststandalonecollections] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:54:52,793 [Worker-30: Launching Teststandalonecollections] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:54:52,793 [Worker-30: Launching Teststandalonecollections] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:55:37,318 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:55:37,318 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:55:37,320 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:55:37,320 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
+2025-07-24 04:56:23,788 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:56:23,788 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\main\resources
+2025-07-24 04:56:23,789 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-24 04:56:23,789 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\romeo\Desktop\DemoSpring\firstspringcore\src\test\resources
