@@ -1,0 +1,15 @@
+package com.springcore.firstspringcore.ci;
+
+public class Dept {
+	private String deptname;
+
+	@Override
+	public String toString() {
+		return "Dept [deptname=" + deptname + "]";
+	}
+
+	public Dept(String deptname) {
+		super();
+		this.deptname = deptname;
+	}
+}

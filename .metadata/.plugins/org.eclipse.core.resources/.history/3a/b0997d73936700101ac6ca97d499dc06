@@ -1,0 +1,28 @@
+package com.springcore.firstspringcore.lifecycle;
+
+public class Monitor {
+	private double price;
+
+	public double getPrice() {
+		return price;
+	}
+
+	public void setPrice(double price) {
+		this.price = price;
+	}
+
+	public Monitor(double price) {
+		this.price = price;
+	}
+
+	public Monitor() {
+	}
+
+	public void turnOn() {
+		System.out.println("Monitor Turning On.....");
+	}
+
+	public void turnOff() {
+		System.out.println("Monitor turning Off.....");
+	}
+}

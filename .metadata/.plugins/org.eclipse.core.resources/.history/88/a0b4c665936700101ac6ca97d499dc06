@@ -1,0 +1,17 @@
+package com.springcore.firstspringcore.lifecycle;
+
+import org.springframework.context.support.AbstractApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Testlifecycle {
+
+	public static void main(String[] args) {
+		AbstractApplicationContext context = new ClassPathXmlApplicationContext(
+				"com/springcore/firstspringcore/lifecycle/lifeconfig.xml");
+
+		Object monitor = context.getBean("m1");
+
+		System.out.println(monitor.getClass());
+	}
+
+}

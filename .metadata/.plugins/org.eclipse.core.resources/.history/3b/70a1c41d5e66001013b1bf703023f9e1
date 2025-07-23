@@ -1,0 +1,61 @@
+package com.springcore.firstspringcore.listCore;
+
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+public class CoreList {
+	private int listId;
+	private List<String> listOfVeggies;
+	private Set<Integer> setOfPrice;
+	private Map<Integer, String> mapOfProducts;
+
+	public int getListId() {
+		return listId;
+	}
+
+	public void setListId(int listId) {
+		this.listId = listId;
+	}
+
+	public List<String> getListOfVeggies() {
+		return listOfVeggies;
+	}
+
+	public void setListOfVeggies(List<String> listOfVeggies) {
+		this.listOfVeggies = listOfVeggies;
+	}
+
+	public Set<Integer> getSetOfPrice() {
+		return setOfPrice;
+	}
+
+	public void setSetOfPrice(Set<Integer> setOfPrice) {
+		this.setOfPrice = setOfPrice;
+	}
+
+	public Map<Integer, String> getMapOfProducts() {
+		return mapOfProducts;
+	}
+
+	public void setMapOfProducts(Map<Integer, String> mapOfProducts) {
+		this.mapOfProducts = mapOfProducts;
+	}
+
+	public CoreList(int listId, List<String> listOfVeggies, Set<Integer> setOfPrice,
+			Map<Integer, String> mapOfProducts) {
+		super();
+		this.listId = listId;
+		this.listOfVeggies = listOfVeggies;
+		this.setOfPrice = setOfPrice;
+		this.mapOfProducts = mapOfProducts;
+	}
+
+	@Override
+	public String toString() {
+		return "CoreList [listId=" + listId + ", listOfVeggies=" + listOfVeggies + ", setOfPrice=" + setOfPrice
+				+ ", mapOfProducts=" + mapOfProducts + "]";
+	}
+	
+	
+}

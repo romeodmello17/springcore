@@ -1,0 +1,21 @@
+package com.springcore.firstspringcore.ci;
+
+public class Emp {
+	private int empID;
+	private String name;
+	private Dept deptname;
+
+	public Emp(int empID, String name, Dept deptname) {
+		super();
+		this.empID = empID;
+		this.name = name;
+		this.deptname = deptname;
+	}
+
+	@Override
+	public String toString() {
+		return "Emp [empID=" + empID + ", name=" + name + "]";
+	}
+
+
+}

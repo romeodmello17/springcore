@@ -1,0 +1,26 @@
+package com.springcore.firstspringcore.lifecycle;
+
+import org.springframework.context.support.AbstractApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Testlifecycle {
+
+	public static void main(String[] args) {
+		AbstractApplicationContext context = new ClassPathXmlApplicationContext(
+				"com/springcore/firstspringcore/lifecycle/lifeconfig.xml");
+
+//		Monitor monitor = (Monitor) context.getBean("m1");
+//
+//		System.out.println(monitor.getPrice());
+//
+//		Pepsi pepsi = (Pepsi) context.getBean("p1");
+//
+//		System.out.println(pepsi.getPrice());
+
+		
+		Paneer paneer = (Paneer) context.getBean("p2");
+		System.out.println(paneer);
+		context.registerShutdownHook(); 
+	}
+
+}

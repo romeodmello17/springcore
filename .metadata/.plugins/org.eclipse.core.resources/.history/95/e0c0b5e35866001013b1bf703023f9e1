@@ -1,0 +1,7 @@
+package com.springcore.firstspringcore.listCore;
+
+public class App {
+	public static void main(String[] args) {
+		
+	}
+}

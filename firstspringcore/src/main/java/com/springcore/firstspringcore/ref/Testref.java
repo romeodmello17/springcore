@@ -1,0 +1,20 @@
+package com.springcore.firstspringcore.ref;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Testref {
+	public static void main(String[] args) {
+		ApplicationContext context = new ClassPathXmlApplicationContext(
+				"com/springcore/firstspringcore/ref/refconfig.xml");
+		A ref1 = (A) context.getBean("aref");
+		System.out.println(ref1.getA());
+		System.out.println(ref1.getOb().getB1());
+		System.out.println(ref1.getOb().getB2());
+		System.out.println("ref1.getOb()");
+		System.out.println(ref1.getA());
+		System.out.println(ref1.getOb());
+		System.out.println("ref1");
+		System.out.println(ref1);
+	}
+}

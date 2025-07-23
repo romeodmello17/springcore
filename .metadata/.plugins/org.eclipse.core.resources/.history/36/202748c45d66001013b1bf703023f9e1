@@ -1,0 +1,16 @@
+package com.springcore.firstspringcore.listCore;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class TestList {
+	public static void main(String[] args) {
+		ApplicationContext context = new ClassPathXmlApplicationContext(
+				"com/springcore/firstspringcore/listCore/list.xml");
+		CoreList list = (CoreList) context.getBean("corelist");
+		System.out.println(list.getListId());
+		System.out.println(list.getListOfVeggies());
+		System.out.println(list.getSetOfPrice());
+		System.out.println(list.getMapOfProducts());
+	}
+}

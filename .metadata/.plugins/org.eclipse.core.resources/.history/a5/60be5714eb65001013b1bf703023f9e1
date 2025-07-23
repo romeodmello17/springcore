@@ -1,0 +1,7 @@
+package com.springcore.firstspringcore;
+
+public class TestCore {
+	private int id ;
+	private String name;
+	
+}
